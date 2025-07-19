@@ -42,12 +42,12 @@ dependencies {
     ////////////////////
     // Ktor dependencvies
     ////////////////////
-    api("io.ktor:ktor-server-jetty:2.3.0")
-    api("io.ktor:ktor-server-websockets:2.3.0")
-    api("io.ktor:ktor-server-default-headers:2.3.0")
-    api("io.ktor:ktor-server-compression:2.3.0")
-    api("io.ktor:ktor-server-caching-headers:2.3.0")
-    api("io.ktor:ktor-network-tls-certificates:2.3.0")
+    api("io.ktor:ktor-server-jetty:3.2.2")
+    api("io.ktor:ktor-server-websockets:3.2.2")
+    api("io.ktor:ktor-server-default-headers:3.2.2")
+    api("io.ktor:ktor-server-compression:3.2.2")
+    api("io.ktor:ktor-server-caching-headers:3.2.2")
+    api("io.ktor:ktor-network-tls-certificates:3.2.2")
 
     api("io.mola.galimatias:galimatias:0.2.1")
 
